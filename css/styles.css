@@ -11787,6 +11787,29 @@ html {
     margin-bottom: 20px;
     margin-top:20px;
   }
+  .furnace-content-pic{
+    width:212px;
+    margin-bottom: 19px;
+    margin-top:19px;
+    border-radius: 5px;
+  }
+  .btn-furnace{
+    margin-top:5px;
+    margin-left:-6px;
+  }
+  .furnace-pic{
+    width:219px;
+    margin-left:-2px;
+    margin-bottom: 20px;
+    margin-top:20px;
+    border-radius: 5px;
+  }
+  .btn-font{
+    color:white;
+  }
+  .btn-font:hover{
+    color:white;
+  }
 }
 
 
@@ -12023,14 +12046,15 @@ html {
   .furnace-content-1-text{  
     width: 348px;
     margin-left:641px;
-    margin-top:5px;
+    margin-top:-481px;
     float:left;
   }
   .furnace-topic{
-    margin-top:115px;
+    margin-top:-186px;
     margin-left:685px;
     width: 279px;
     float:left;
+    margin-bottom: 492px;
   }
   .btn-furnace{
     margin-top: 11px;
@@ -12048,5 +12072,27 @@ html {
     border-radius: 5px;
     margin-left:-1px;
   }
-  
+  .furnace-content-pic{
+    width: 406px;
+    margin-top:70px;
+    margin-left:134px;
+    float:left;
+    border-radius: 5px;
+  }
+  .btn-furnace{
+    margin-top:-875px;
+    margin-left:724px;
+  }
+  .furnace-pic{
+    width: 410px;
+    margin-left:-39px;
+    margin-top:-277px;
+    border-radius: 5px;
+  }
+  .btn-font{
+    color:white;
+  }
+  .btn-font:hover{
+    color:white;
+  }
 }
