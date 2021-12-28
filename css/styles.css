@@ -11810,6 +11810,140 @@ html {
   .btn-font:hover{
     color:white;
   }
+  .arduino-pic{
+    width: 133px;
+    margin-left:50px;
+    margin-top:50px;
+  }
+  .arduino-text{
+    margin-left:70px;
+    margin-top:-8px;
+  }
+  .arduino{
+    margin-top:-43px;
+  }
+  .c-pic{
+    margin-left:183px;
+    margin-top:-114px;
+    float:left;
+  }
+  .c-text{
+    margin-left:188px;
+    margin-top:-26px;
+    float:left;
+  }
+  .icon-size{
+    width: 100px;
+  }
+  .c-sharp-pic{
+    width: 133px;
+    margin-left:36px;
+    margin-top:8px;
+    float:left;
+  }
+  .c-sharp-text{
+    margin-left:-117px;
+    margin-top:120px;
+    float:left;
+  }
+  .solidworks-pic{
+    width: 133px;
+    margin-left:-1px;
+    margin-top:8px;
+    float:left;
+  }
+  .solidworks-text{
+    margin-left:-99px;
+    margin-top:119px;
+    float:left;
+  }
+  .fluidsim-pic{
+    width: 109px;
+    margin-left:49px;
+    margin-top:8px;
+    float:left;
+  }
+  .fluidsim-text{
+    margin-left:-105px;
+    margin-top:110px;
+    float:left;
+  }
+  .photoshop-pic{
+    width: 109px;
+    margin-left:179px;
+    margin-top:-130px;
+    float:left;
+  }
+  .photoshop-text{
+    margin-left:176px;
+    margin-top:-24px;
+    float:left;
+  }
+  .pr-pic{
+    width: 109px;
+    margin-left:48px;
+    margin-top:0px;
+  }
+  .pr-text{
+    margin-left:52px;
+    margin-top:-11px;
+  }  
+  .html-pic{
+    width: 109px;
+    margin-left:179px;
+    margin-top:-130px;
+    float:left;
+  }
+  .html-text{
+    margin-left:194px;
+    margin-top:-24px;
+    float:left;
+  }
+  .python-pic{
+    width: 109px;
+    margin-left:48px;
+    margin-top:0px;
+  }
+  .python-text{
+    margin-left:76px;
+    margin-top:-2px;
+  }  
+  .sysmac-pic{
+    
+    width: 109px;
+    margin-left:179px;
+    margin-top:-130px;
+    float:left;
+  }
+  .sysmac-text{
+    margin-left:182px;
+    margin-top:-24px;
+    float:left;
+  }
+  .skill-btn {
+    border-radius: 4px;
+    background-color:var(--bs-purple);
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    width: 268px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    margin-top:43px;
+  }
+  .skill-btn:hover{
+    background-color:darkslateblue;
+  }
+  .skill-btn-text{
+    color:white;
+  }
+  .skill-btn-text:hover{
+    color:white;
+  }
+
 }
 
 
@@ -12093,6 +12227,154 @@ html {
     color:white;
   }
   .btn-font:hover{
+    color:white;
+  }
+  .icon-size{
+    width: 136px;
+  }
+  .arduino-pic{
+    margin-left:235px;
+    margin-top:-19px;
+    width: 136px;
+  }
+  .arduino-text{
+    text-align: center;
+    margin-left: -688px;
+    margin-top: -17px;
+  }
+  .c-pic{
+    margin-left:404px;
+    margin-top:-188px;
+  }
+  .c-text{
+    margin-left:423px;
+    margin-top:-54px;
+  }
+  .c-sharp-pic{
+    margin-left:569px;
+    margin-top:-170px;
+    width: 169px;
+    float: left;
+  }
+  .c-sharp-text{
+    margin-left:601px;
+    margin-top:-37px;
+    float:left;
+  }
+  .solidworks-pic{
+    margin-left:784px;
+    margin-top:-151px;
+    width: 169px;
+    float: left;
+    width: 130px;
+  }
+  .solidworks-text{
+    margin-left:806px;
+    margin-top:-37px;
+    float:left;
+  }
+  .skill-top{
+    margin-left:-1px;
+  }
+  .solidworks{
+    margin-left:-21px;
+  }
+  .fluidsim-pic{
+    margin-left:960px;
+    margin-top:-151px;
+    width: 130px;
+    float: left;
+  }
+  .fluidsim-text{
+    margin-left:968px;
+    margin-top:-37px;
+    float:left;
+  }
+  .festo{
+    margin-left:-6px;
+  }
+  .photoshop-pic{
+    width: 130px;
+    margin-left:235px;
+    margin-top:-19px;
+  }
+  .photoshop-text{
+    text-align: center;
+    margin-left: -694px;
+    margin-top: -17px;
+  }
+  .skill-bottom{
+    margin-top:24px;
+  }
+  .pr-pic{
+    width: 130px;
+    margin-left:404px;
+    margin-top:-140px;
+    float:left;
+  }
+  .pr-text{
+    text-align: center;
+    margin-left: 414px;
+    margin-top: -27px;
+    float:left;
+  }
+  .html-pic{
+    width: 130px;
+    margin-left:65px;
+    margin-top:-140px;
+    float:left;
+  }
+  .html-text{
+    text-align: center;
+    margin-left: 90px;
+    margin-top: -27px;
+    float:left;
+  }
+  .python-pic{
+    width: 130px;
+    margin-left:58px;
+    margin-top:-140px;
+    float:left;
+  }
+  .python-text{
+    margin-left: 91px;
+    margin-top: -27px;
+    float:left;
+  }
+  .sysmac-pic{
+    width: 156px;
+    margin-left:90px;
+    margin-top:-160px;
+    float:left;
+  }
+  .sysmac-text{
+    margin-left: 110px;
+    margin-top: -27px;
+    float:left;
+  }
+
+  .skill-btn {
+    border-radius: 4px;
+    background-color:var(--bs-purple);
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 23px;
+    padding: 20px;
+    width: 473px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    margin-top:43px;
+  }
+  .skill-btn:hover{
+    background-color:darkslateblue;
+  }
+  .skill-btn-text{
+    color:white;
+  }
+  .skill-btn-text:hover{
     color:white;
   }
 }
