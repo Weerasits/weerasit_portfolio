@@ -12149,7 +12149,7 @@ html {
   }
   .liquid-header-text{
     margin-left:-176px;
-    margin-top:65 px;
+    margin-top:106px;
     font-size:23px;
   }
   .heat-header-text{
@@ -12376,6 +12376,27 @@ html {
   }
   .skill-btn-text:hover{
     color:white;
+  }
+  .cullet-pic{
+    float:left;
+    width: 387px;
+    margin-top:11px;
+    margin-left:126px;
+    border-radius: 5px;
+  }
+  .autoclave-pic{
+    float:left;
+    width: 387px;
+    margin-top:11px;
+    margin-left:126px;
+    border-radius: 5px;
+  }
+  .re-q{
+    float:left;
+    width: 231px;
+    margin-top:11px;
+    margin-left:185px;
+    border-radius: 5px;
   }
 }
 .btn-color{
