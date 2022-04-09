@@ -12398,6 +12398,19 @@ html {
     margin-left:185px;
     border-radius: 5px;
   }
+  .final-present{
+  width:682px;
+  margin-left:145px;
+  margin-top:-13px;
+  border-radius: 12px;
+  transition:0.2s;
+  }
+  .final-present:hover{
+  transition: 0.2s;
+  opacity: 0.9;
+  color:grey;
+  cursor: pointer;
+  }
 }
 .btn-color{
   color:white;
