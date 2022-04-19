@@ -11943,7 +11943,21 @@ html {
   .skill-btn-text:hover{
     color:white;
   }
-
+  .final-present{
+    width: 362px;
+    margin-top:-15px;
+    border-radius: 5px;
+    margin-bottom: 19px;
+  }
+  .control-pic{
+    width: 189px;
+    margin-top:24px;
+    margin-bottom:21px;
+    border-radius: 5px;
+  }
+  .control-content-1-text{
+    margin-bottom:-59px;
+  }
 }
 
 
@@ -12184,11 +12198,35 @@ html {
     float:left;
   }
   .furnace-topic{
-    margin-top:-186px;
+    margin-top:-253px;
     margin-left:685px;
     width: 279px;
     float:left;
     margin-bottom: 492px;
+  }
+  .control-pic{
+  height: 410px;
+  width: 295.11px;
+  margin-left:-38px;
+  margin-top:-307px;
+  border-radius:5px;
+  }
+  .control-topic{
+    float:left;
+    margin-top:-321px;
+    margin-left:591px;
+    width: 453px;
+  }
+  .control-content-1-text{
+    float:left;
+    margin-top:-235px;
+    margin-left:591px;
+    width: 453px;
+  }
+  .btn-control{
+    margin-top: -401px;
+    margin-left: 715px;
+    width: 203px;
   }
   .btn-furnace{
     margin-top: 11px;
@@ -12384,7 +12422,7 @@ html {
     margin-left:126px;
     border-radius: 5px;
   }
-  .autoclave-pic{
+  .auto clave-pic{
     float:left;
     width: 387px;
     margin-top:11px;
@@ -12418,3 +12456,4 @@ html {
 .btn-color:hover{
   color:white;
 }
+
